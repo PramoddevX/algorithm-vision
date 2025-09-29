@@ -56,17 +56,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "5500+",
   },
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "500+",
   },
   {
     id: "stats-3",
     title: "Transaction",
-    value: "$230M+",
+    value: "$100M+",
   },
 ];
 
@@ -84,8 +84,8 @@ export const footerLinks = [
     title: "Contact Us",
     links: [
       {
-        name: "Pramit Sarkar",
-        link: "mailto:221b271@juetguna.in",
+        name: "Pramod Singh Bhadoriya",
+        link: "mailto:bhadoriyapramodsingh038@gmail.com",
       },
     ],
   },
@@ -105,11 +105,11 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://x.com/PramodDevx",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/pramod-singh-bhadoriya-405451213/",
   },
 ];
